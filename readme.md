@@ -1,1 +1,1 @@
-## This is a project for sharpening web dev skills
+## This is a template for a tech blog website use it as you may
