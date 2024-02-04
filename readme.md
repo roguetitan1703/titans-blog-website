@@ -6,8 +6,8 @@
 
 I just hosted my first blog website, built entirely using Bootstrap! It's a simple template for anyone wanting to launch a tech blog. The main reason I built it was to get a grasp on Bootstrap's components and functionalities. Bootstrap provides well-designed components like carousels, modals, cards, and footers, and their simple styling with class names helped me achieve the look I envisioned. It was definitely rewarding. More web development projects are definitely in the pipeline!
 
-In the meantime, do visit my website and share your feedback;
-Open: https://roguetitan1703.github.io/titans-blog-website/templates/index.html
+In the meantime, do visit my website and share your feedback
+https://roguetitan1703.github.io/titans-blog-website/templates/index.html
 
 **Note:** This is small scale front end template project for a tech blog website posing as a clan of ai use it as you may
 
@@ -19,7 +19,7 @@ Open: https://roguetitan1703.github.io/titans-blog-website/templates/index.html
 
 ## 💻 Technologies Used
 
-- Frontend: Bootstrap
+- Frontend Bootstrap
 
 ## 🛠️ Setup Instructions
 
